@@ -2,7 +2,7 @@
 
 # 💫 Hi, I'm Arqam, a Pakistani Web Developer
 👨🏼‍💻 Working as a Web Developer since 2018.<br>
-✨ Eager to learn new Programming Languages. <br>
+✨ Eager to learn new Programming Technologies. <br>
 👨🏼‍🎓 Just started learning Mobile Apps Development.
 
 
